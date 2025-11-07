@@ -1,6 +1,8 @@
-{
-  "title": "NEW UPDATE AVAILABLE",
-  "message": "Version 2.0\n\n- Bug fixes\n- Performance improvements\n- New features",
-  "download_url": "https://yourdomain.com/update.apk",
-  "icon_url": "https://example.com/icon.png"
-}
+{ "show_message": true,
+    "title": "apksam Download InstaPro v13.10",
+    "content_url": "https://devmsg.fun/instapro.html", 
+    "positive_btn": " Now",
+    "link": "https://www.instamod.co/2022/04/insta-pro-latest-version-download-v960.html", 
+    "positive_btn2": "Download 2", 
+    "link2": "https://www.instamod.co",
+    "cancelable": true }
